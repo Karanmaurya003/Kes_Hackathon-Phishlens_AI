@@ -1,0 +1,12 @@
+﻿{
+  "python.analysis.exclude": [
+    "**/node_modules",
+    "**/.next",
+    "**/dist",
+    "**/build",
+    "**/__pycache__",
+    "**/.venv",
+    "**/env"
+  ],
+  "python.analysis.diagnosticMode": "openFilesOnly"
+}
