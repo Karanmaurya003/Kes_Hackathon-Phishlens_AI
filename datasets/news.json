@@ -1,0 +1,26 @@
+{
+  "last_updated": "2026-03-16",
+  "items": [
+    {
+      "title": "Interpol operation seized 45,000 malicious IPs and servers tied to phishing",
+      "date": "2026-03-13",
+      "source": "ITPro",
+      "summary": "Operation Synergia III disrupted phishing, malware, and ransomware infrastructure across 72 countries, with 94 arrests and 110 suspects under investigation.",
+      "url": "https://www.itpro.com/security/cyber-crime/interpol-teams-up-with-tech-firms-to-seize-45-000-malicious-ips-servers-in-global-cyber-crime-crackdown"
+    },
+    {
+      "title": "IC3 alert: officials impersonated in malicious messaging campaign",
+      "date": "2026-03-09",
+      "source": "FBI IC3",
+      "summary": "Alert warns of impersonation scams targeting permit applicants with urgent payment demands and urges independent verification.",
+      "url": "https://www.ic3.gov/PSA/2026/PSA260309"
+    },
+    {
+      "title": "FBI PSA: senior U.S. officials impersonated in smishing/vishing campaign",
+      "date": "2025-05-15",
+      "source": "FBI PSA",
+      "summary": "Malicious actors used SMS and AI‑generated voice messages to impersonate officials and attempt credential or account access.",
+      "url": "https://www.fbi.gov/investigate/cyber/alerts/2025/senior-us-officials-impersonated-in-malicious-messaging-campaign"
+    }
+  ]
+}
